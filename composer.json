@@ -1,0 +1,15 @@
+{
+    "name": "viquanghoa/frontend-contact",
+    "description": "Contact module",
+    "autoload": {
+        "psr-4": {
+            "HoaVQ\\FEContact\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "HoaVQ",
+            "email": "vyquanghoa@gmail.com"
+        }
+    ]
+}
