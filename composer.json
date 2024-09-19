@@ -1,0 +1,20 @@
+{
+    "name": "viquanghoa/frontend-contact",
+    "description": "Contact module",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "HoaVQ\\FEContact\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "HoaVQ",
+            "email": "vyquanghoa@gmail.com"
+        }
+    ],
+    "require": {
+    },
+    "minimum-stability": "stable", 
+    "prefer-stable": true
+}
